@@ -1,7 +1,7 @@
 <h1>Calculator</h1>
 
 <h2>Description</h2>
-A simple project were I created a calculator for windows.
+A simple project where I created a calculator for Windows.
 <br />
 
 
